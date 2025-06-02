@@ -1,0 +1,5 @@
+"What is the ideal embedding dimensionality for effective FAISS search?"
+"How does chunk overlap affect the quality of retrieval in a RAG system?"
+"What types of FAISS indexes are best suited for approximate nearest neighbor search?"
+"How should the prompt be designed to maximize answer relevance using retrieved chunks?"
+"What are common pitfalls when integrating chunking and retrieval in a RAG pipeline?"
